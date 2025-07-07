@@ -1,0 +1,4 @@
+title: Patrycja’s Blog
+description: A blog built with Jekyll and Netlify CMS
+baseurl: "" # leave empty unless you're using a subdirectory
+url: ""     # will be updated with custom domain later
